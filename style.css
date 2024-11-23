@@ -1,0 +1,34 @@
+body{
+background-color: rgb(60, 122, 46) ;
+color:bisque;
+font-family: "Ga Maamli", serif;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 600px;
+margin: 0;
+}
+button {
+background-color: darkolivegreen;
+color:white;
+font-family: "Ga Maamli", serif;
+
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display: block;
+}
+
+main {
+    text-align: center;
+    max-width: 90%;
+}
+
+img {
+max-width: 50%;
+
+}
